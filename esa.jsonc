@@ -1,0 +1,6 @@
+{
+  "buildCommand": "sh ./build.sh",
+  "assets": {
+    "directory": "./"
+  }
+}
