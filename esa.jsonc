@@ -1,6 +1,6 @@
 {
   "buildCommand": "sh ./build.sh",
-  "installCommand": "pnpm install",
+  "installCommand": "",
   "buildErFile": true,
   "entry": "./index.ts",
   "assets": {
