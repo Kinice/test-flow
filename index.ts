@@ -1,5 +1,5 @@
 import { b } from './test';
-const a: string = 'adcd';
+const a: string = 'addcd';
 export default {
   fetch: () => {
     return new Response('Hello, world!' + a + b);
