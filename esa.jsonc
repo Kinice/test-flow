@@ -2,6 +2,7 @@
   "buildCommand": "sh ./build.sh",
   "installCommand": "pnpm install",
   "buildErFile": true,
+  "entry": "./index.ts",
   "assets": {
     "directory": "./dist"
   }
