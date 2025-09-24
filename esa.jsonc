@@ -2,6 +2,6 @@
   "buildCommand": "sh ./build.sh",
   "installCommand": "pnpm install",
   "assets": {
-    "directory": "./"
+    "directory": "./dist"
   }
 }
