@@ -1,6 +1,6 @@
 {
   "buildCommand": "sh ./build.sh",
-  "installCommand": "",
+  "installCommand": "yarn",
   "buildErFile": true,
   "entry": "./index.ts",
   "assets": {
